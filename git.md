@@ -107,6 +107,7 @@ git push 别名 分支名 git push git-demo master
 
 
 ssh-keygen -t rsa -C 2772578310@qq.com
+这是我在github上的修改
 
 
 
